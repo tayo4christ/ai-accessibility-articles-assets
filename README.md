@@ -20,14 +20,6 @@ ai-accessibility-articles-assets/
     └── multimodal-applications.png
 ```
 
-## How to Use
-
-You can embed these images directly in Markdown articles using GitHub raw links.  
-Example:
-
-```markdown
-![Makaton Workflow](https://raw.githubusercontent.com/<username>/ai-accessibility-articles-assets/main/images/makaton-workflow.png)
-
 *Figure: AI workflow for translating Makaton gestures into English.*
 ```
 
